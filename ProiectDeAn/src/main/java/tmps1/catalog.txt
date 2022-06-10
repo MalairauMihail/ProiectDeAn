@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Cosmetica si igiena",
+    "compartimentProducts": [
+      {
+        "titlu": "Pilfud",
+        "descriere": ".....",
+        "grame": 60,
+        "pret": 216
+      },
+      {
+        "titlu": "Bania crema pentru masaj",
+        "descriere": "....",
+        "grame": 200,
+        "pret": 45
+      },
+      {
+        "titlu": "Biologico masca pentru fata",
+        "descriere": "....",
+        "grame": 5,
+        "pret": 24
+      },
+      {
+        "titlu": "PHYTS conditioner Spray",
+        "descriere": "....",
+        "grame": 100,
+        "pret": 311
+      }
+    ]
+  },
+  {
+    "name": "Echipament medical",
+    "compartimentProducts": [
+      {
+        "titlu": "B.Well termometru digital",
+        "descriere": "....",
+        "grame": 50,
+        "pret": 91
+      },
+      {
+        "titlu": "Termometry cu infrarosu",
+        "descriere": "....",
+        "grame": 100,
+        "pret": 1235
+      },
+      {
+        "titlu": "B.Well irigator dentar",
+        "descriere": "....",
+        "grame": 150,
+        "pret": 1020
+      },
+      {
+        "titlu": "Peroxid de hidrogen",
+        "descriere": "....",
+        "grame": 1000,
+        "pret": 25
+      }
+    ]
+  },
+  {
+    "name": "Vitamine si suplimente",
+    "compartimentProducts": [
+      {
+        "titlu": "Brusture radacini",
+        "descriere": "....",
+        "grame": 50,
+        "pret": 25
+      },
+      {
+        "titlu": "Acid ascorbic",
+        "descriere": "....",
+        "grame": 500,
+        "pret": 32
+      },
+      {
+        "titlu": "Dacia plant bitter",
+        "descriere": "....",
+        "grame": 200,
+        "pret": 288
+      }
+    ]
+  },
+  {
+    "name": "Medicamente",
+    "compartimentProducts": [
+      {
+        "titlu": "A ferin forte",
+        "descriere": "....",
+        "grame": 650,
+        "pret": 45
+      },
+      {
+        "titlu": "Algin baby",
+        "descriere": "....",
+        "grame": 100,
+        "pret": 31
+      },
+      {
+        "titlu": "Antigripal",
+        "descriere": "....",
+        "grame": 100,
+        "pret": 58
+      }
+    ]
+  },
+  {
+    "name": "test",
+    "compartimentProducts": []
+  }
+]
